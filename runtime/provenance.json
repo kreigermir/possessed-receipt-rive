@@ -1,0 +1,14 @@
+{
+  "package": "@rive-app/canvas-lite",
+  "version": "2.44.0",
+  "tarball": "https://registry.npmjs.org/@rive-app/canvas-lite/-/canvas-lite-2.44.0.tgz",
+  "integrity": "sha512-ywsdoYLsC+8RIZ+aMCvHQQgGRxnBHojReaOxDqI5ZL2Y/nRKdySAbLFnSrJIAbGygdkuQdJVUNF3AF01mxGhEA==",
+  "license": "MIT",
+  "license_source": "https://raw.githubusercontent.com/rive-app/rive-wasm/03586f0e2adb991ba00b79807b7c645d519b1a48/LICENSE",
+  "source_docs": "https://rive.app/docs/runtimes/web/web-js",
+  "files": {
+    "rive.js": "dfd18efd550e3bd287978af73f2e87a56a6207ccdab6d798c6b56e7eb99320ce",
+    "LICENSE": "8a1efa755d19446b51a18e1c15f6308728da0b36283c4d38050698ad6954b69a",
+    "rive.wasm": "d0170c2d4d7fdd563116c3f5a3444c9ed43778b870f4a3261f883bce5d0b454f"
+  }
+}

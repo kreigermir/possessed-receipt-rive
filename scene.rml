@@ -1,0 +1,526 @@
+<Rive version="1" kind="fragment">
+  <Artboard width="600" height="600" name="Possessed Receipt Printer" id="0:2" defaultStateMachineId="0:7">
+    <Fill>
+      <SolidColor colorValue="FF161426" />
+    </Fill>
+    <StateMachine name="Haunted print loop" id="0:7">
+      <StateMachineLayer name="Print">
+        <AnyState />
+        <ExitState />
+        <EntryState>
+          <StateTransition stateToId="0:12" />
+        </EntryState>
+        <AnimationState animationId="0:6" id="0:12" />
+      </StateMachineLayer>
+    </StateMachine>
+    <LinearAnimation name="Receipt possession" id="0:6" duration="240" fps="60" loopValue="loop">
+      <KeyedObject objectId="0:14">
+        <KeyedProperty propertyKey="14">
+          <KeyFrameDouble frame="0" value="351" interpolationType="linear" />
+          <KeyFrameDouble frame="45" value="230" interpolationType="linear" />
+          <KeyFrameDouble frame="100" value="217" interpolationType="linear" />
+          <KeyFrameDouble frame="160" value="235" interpolationType="linear" />
+          <KeyFrameDouble frame="195" value="230" interpolationType="linear" />
+          <KeyFrameDouble frame="240" value="351" interpolationType="linear" />
+        </KeyedProperty>
+      </KeyedObject>
+      <KeyedObject objectId="0:14">
+        <KeyedProperty propertyKey="17">
+          <KeyFrameDouble frame="0" value="0.2" interpolationType="linear" />
+          <KeyFrameDouble frame="45" value="1" interpolationType="linear" />
+          <KeyFrameDouble frame="100" value="1.06" interpolationType="linear" />
+          <KeyFrameDouble frame="160" value="0.97" interpolationType="linear" />
+          <KeyFrameDouble frame="195" value="1" interpolationType="linear" />
+          <KeyFrameDouble frame="240" value="0.2" interpolationType="linear" />
+        </KeyedProperty>
+      </KeyedObject>
+      <KeyedObject objectId="0:14">
+        <KeyedProperty propertyKey="15">
+          <KeyFrameDouble frame="0" value="0" interpolationType="linear" />
+          <KeyFrameDouble frame="60" value="-0.06" interpolationType="linear" />
+          <KeyFrameDouble frame="120" value="0.06" interpolationType="linear" />
+          <KeyFrameDouble frame="180" value="-0.04" interpolationType="linear" />
+          <KeyFrameDouble frame="240" value="0" interpolationType="linear" />
+        </KeyedProperty>
+      </KeyedObject>
+      <KeyedObject objectId="0:20">
+        <KeyedProperty propertyKey="16">
+          <KeyFrameDouble frame="0" value="1" interpolationType="linear" />
+          <KeyFrameDouble frame="30" value="1.23" interpolationType="linear" />
+          <KeyFrameDouble frame="60" value="1" interpolationType="linear" />
+          <KeyFrameDouble frame="90" value="1.23" interpolationType="linear" />
+          <KeyFrameDouble frame="120" value="1" interpolationType="linear" />
+          <KeyFrameDouble frame="150" value="1.23" interpolationType="linear" />
+          <KeyFrameDouble frame="180" value="1" interpolationType="linear" />
+          <KeyFrameDouble frame="210" value="1.23" interpolationType="linear" />
+          <KeyFrameDouble frame="240" value="1" interpolationType="linear" />
+        </KeyedProperty>
+      </KeyedObject>
+      <KeyedObject objectId="0:20">
+        <KeyedProperty propertyKey="17">
+          <KeyFrameDouble frame="0" value="1" interpolationType="linear" />
+          <KeyFrameDouble frame="30" value="1.23" interpolationType="linear" />
+          <KeyFrameDouble frame="60" value="1" interpolationType="linear" />
+          <KeyFrameDouble frame="90" value="1.23" interpolationType="linear" />
+          <KeyFrameDouble frame="120" value="1" interpolationType="linear" />
+          <KeyFrameDouble frame="150" value="1.23" interpolationType="linear" />
+          <KeyFrameDouble frame="180" value="1" interpolationType="linear" />
+          <KeyFrameDouble frame="210" value="1.23" interpolationType="linear" />
+          <KeyFrameDouble frame="240" value="1" interpolationType="linear" />
+        </KeyedProperty>
+      </KeyedObject>
+    </LinearAnimation>
+    <Shape name="BOO marquee" x="338" y="102">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="338" y="84">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="338" y="75">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="338" y="66">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="308" y="102">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="317" y="93">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="299" y="93">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="317" y="84">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="299" y="84">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="317" y="75">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="299" y="75">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="308" y="66">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="269" y="102">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="278" y="93">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="260" y="93">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="278" y="84">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="260" y="84">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="278" y="75">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="260" y="75">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="269" y="66">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="230" y="102">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="221" y="102">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="239" y="93">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="221" y="93">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="230" y="84">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="221" y="84">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="239" y="75">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="221" y="75">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="230" y="66">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="BOO marquee" x="221" y="66">
+      <Rectangle width="7" height="7" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="Printer vents" x="240" y="451">
+      <Rectangle width="5" height="21" cornerRadiusTL="2" />
+      <Fill>
+        <SolidColor colorValue="FF211D33" />
+      </Fill>
+    </Shape>
+    <Shape name="Printer vents" x="228" y="451">
+      <Rectangle width="5" height="21" cornerRadiusTL="2" />
+      <Fill>
+        <SolidColor colorValue="FF211D33" />
+      </Fill>
+    </Shape>
+    <Shape name="Printer vents" x="216" y="451">
+      <Rectangle width="5" height="21" cornerRadiusTL="2" />
+      <Fill>
+        <SolidColor colorValue="FF211D33" />
+      </Fill>
+    </Shape>
+    <Shape name="Printer vents" x="204" y="451">
+      <Rectangle width="5" height="21" cornerRadiusTL="2" />
+      <Fill>
+        <SolidColor colorValue="FF211D33" />
+      </Fill>
+    </Shape>
+    <Shape name="Button gleam" x="392" y="449">
+      <Ellipse width="8" height="8" />
+      <Fill>
+        <SolidColor colorValue="FFFFE5AB" />
+      </Fill>
+    </Shape>
+    <Shape name="Pulse button" x="396" y="453" id="0:20">
+      <Ellipse width="30" height="30" />
+      <Fill>
+        <SolidColor colorValue="FFFFAE73" />
+      </Fill>
+    </Shape>
+    <Shape name="Pulse button ring" x="396" y="453">
+      <Ellipse width="48" height="48" />
+      <Fill>
+        <SolidColor colorValue="FF615277" />
+      </Fill>
+    </Shape>
+    <Shape name="Print slot" x="300" y="407">
+      <Rectangle width="141" height="7" cornerRadiusTL="3" />
+      <Fill>
+        <SolidColor colorValue="FF0C0B16" />
+      </Fill>
+    </Shape>
+    <Shape name="Printer lip" x="300" y="412">
+      <Rectangle width="209" height="24" cornerRadiusTL="10" />
+      <Fill>
+        <SolidColor colorValue="FF211D33" />
+      </Fill>
+    </Shape>
+    <Shape name="Printer face" x="300" y="453">
+      <Rectangle width="280" height="99" cornerRadiusTL="24" />
+      <Fill>
+        <SolidColor colorValue="FF423A5B" />
+      </Fill>
+    </Shape>
+    <Shape name="Printer back" x="300" y="424">
+      <Rectangle width="258" height="126" cornerRadiusTL="26" />
+      <Fill>
+        <SolidColor colorValue="FF696082" />
+      </Fill>
+    </Shape>
+    <Node name="Ghost emerging from receipt" x="300" y="230" id="0:14">
+      <Shape name="Surprised mouth" x="0" y="14">
+        <Ellipse width="15" height="18" />
+        <Fill>
+          <SolidColor colorValue="FF252036" />
+        </Fill>
+      </Shape>
+      <Shape name="Blush" x="44.95" y="8">
+        <Ellipse width="19" height="9" />
+        <Fill>
+          <SolidColor colorValue="FFF7A78B" />
+        </Fill>
+      </Shape>
+      <Shape name="Eye gleam" x="27" y="-25">
+        <Ellipse width="5" height="7" />
+        <Fill>
+          <SolidColor colorValue="FFFFFFFF" />
+        </Fill>
+      </Shape>
+      <Shape name="Eyes" x="29" y="-20">
+        <Ellipse width="17" height="25" />
+        <Fill>
+          <SolidColor colorValue="FF252036" />
+        </Fill>
+      </Shape>
+      <Shape name="Blush" x="-44.95" y="8">
+        <Ellipse width="19" height="9" />
+        <Fill>
+          <SolidColor colorValue="FFF7A78B" />
+        </Fill>
+      </Shape>
+      <Shape name="Eye gleam" x="-31" y="-25">
+        <Ellipse width="5" height="7" />
+        <Fill>
+          <SolidColor colorValue="FFFFFFFF" />
+        </Fill>
+      </Shape>
+      <Shape name="Eyes" x="-29" y="-20">
+        <Ellipse width="17" height="25" />
+        <Fill>
+          <SolidColor colorValue="FF252036" />
+        </Fill>
+      </Shape>
+      <Shape name="Scalloped hem" x="56" y="72">
+        <Ellipse width="44" height="40" />
+        <Fill>
+          <SolidColor colorValue="FFFFF6E6" />
+        </Fill>
+      </Shape>
+      <Shape name="Scalloped hem" x="19" y="72">
+        <Ellipse width="44" height="40" />
+        <Fill>
+          <SolidColor colorValue="FFFFF6E6" />
+        </Fill>
+      </Shape>
+      <Shape name="Scalloped hem" x="-19" y="72">
+        <Ellipse width="44" height="40" />
+        <Fill>
+          <SolidColor colorValue="FFFFF6E6" />
+        </Fill>
+      </Shape>
+      <Shape name="Scalloped hem" x="-56" y="72">
+        <Ellipse width="44" height="40" />
+        <Fill>
+          <SolidColor colorValue="FFFFF6E6" />
+        </Fill>
+      </Shape>
+      <Shape name="Ghost body" x="0" y="19">
+        <Rectangle width="156" height="110" />
+        <Fill>
+          <SolidColor colorValue="FFFFF6E6" />
+        </Fill>
+      </Shape>
+      <Shape name="Ghost crown" x="0" y="-20">
+        <Ellipse width="156" height="146" />
+        <Fill>
+          <SolidColor colorValue="FFFFF6E6" />
+        </Fill>
+      </Shape>
+    </Node>
+    <Shape name="Receipt ink" x="300" y="395">
+      <Rectangle width="42" height="4" />
+      <Fill>
+        <SolidColor colorValue="FFACA69E" />
+      </Fill>
+    </Shape>
+    <Shape name="Receipt ink" x="300" y="377">
+      <Rectangle width="82" height="4" />
+      <Fill>
+        <SolidColor colorValue="FFACA69E" />
+      </Fill>
+    </Shape>
+    <Shape name="Receipt ink" x="300" y="361">
+      <Rectangle width="66" height="4" />
+      <Fill>
+        <SolidColor colorValue="FFACA69E" />
+      </Fill>
+    </Shape>
+    <Shape name="Receipt ink" x="300" y="345">
+      <Rectangle width="78" height="4" />
+      <Fill>
+        <SolidColor colorValue="FFACA69E" />
+      </Fill>
+    </Shape>
+    <Shape name="Receipt paper" x="300" y="363">
+      <Rectangle width="122" height="170" cornerRadiusTL="5" />
+      <Fill>
+        <SolidColor colorValue="FFFFF1D7" />
+      </Fill>
+    </Shape>
+    <Shape name="Desk shadow" x="300" y="501">
+      <Ellipse width="386" height="38" />
+      <Fill>
+        <SolidColor colorValue="FF0D0C18" />
+      </Fill>
+    </Shape>
+    <Shape name="Spark vertical" x="334" y="91">
+      <Rectangle width="3" height="14" />
+      <Fill>
+        <SolidColor colorValue="FFAA97CE" />
+      </Fill>
+    </Shape>
+    <Shape name="Spark horizontal" x="334" y="91">
+      <Rectangle width="14" height="3" />
+      <Fill>
+        <SolidColor colorValue="FFAA97CE" />
+      </Fill>
+    </Shape>
+    <Shape name="Spark vertical" x="107" y="312">
+      <Rectangle width="3" height="14" />
+      <Fill>
+        <SolidColor colorValue="FFAA97CE" />
+      </Fill>
+    </Shape>
+    <Shape name="Spark horizontal" x="107" y="312">
+      <Rectangle width="14" height="3" />
+      <Fill>
+        <SolidColor colorValue="FFAA97CE" />
+      </Fill>
+    </Shape>
+    <Shape name="Spark vertical" x="435" y="205">
+      <Rectangle width="3" height="14" />
+      <Fill>
+        <SolidColor colorValue="FFAA97CE" />
+      </Fill>
+    </Shape>
+    <Shape name="Spark horizontal" x="435" y="205">
+      <Rectangle width="14" height="3" />
+      <Fill>
+        <SolidColor colorValue="FFAA97CE" />
+      </Fill>
+    </Shape>
+    <Shape name="Spark vertical" x="530" y="270">
+      <Rectangle width="3" height="14" />
+      <Fill>
+        <SolidColor colorValue="FFAA97CE" />
+      </Fill>
+    </Shape>
+    <Shape name="Spark horizontal" x="530" y="270">
+      <Rectangle width="14" height="3" />
+      <Fill>
+        <SolidColor colorValue="FFAA97CE" />
+      </Fill>
+    </Shape>
+    <Shape name="Spark vertical" x="142" y="210">
+      <Rectangle width="3" height="14" />
+      <Fill>
+        <SolidColor colorValue="FFAA97CE" />
+      </Fill>
+    </Shape>
+    <Shape name="Spark horizontal" x="142" y="210">
+      <Rectangle width="14" height="3" />
+      <Fill>
+        <SolidColor colorValue="FFAA97CE" />
+      </Fill>
+    </Shape>
+    <Shape name="Spark vertical" x="78" y="124">
+      <Rectangle width="3" height="14" />
+      <Fill>
+        <SolidColor colorValue="FFAA97CE" />
+      </Fill>
+    </Shape>
+    <Shape name="Spark horizontal" x="78" y="124">
+      <Rectangle width="14" height="3" />
+      <Fill>
+        <SolidColor colorValue="FFAA97CE" />
+      </Fill>
+    </Shape>
+    <Shape name="Moon cut" x="482" y="99">
+      <Ellipse width="69" height="69" />
+      <Fill>
+        <SolidColor colorValue="FF302944" />
+      </Fill>
+    </Shape>
+    <Shape name="Moon" x="465" y="114">
+      <Ellipse width="80" height="80" />
+      <Fill>
+        <SolidColor colorValue="FFFFD89B" />
+      </Fill>
+    </Shape>
+    <Shape name="Moon halo" x="465" y="114">
+      <Ellipse width="114" height="114" />
+      <Fill>
+        <SolidColor colorValue="FF302944" />
+      </Fill>
+    </Shape>
+  </Artboard>
+</Rive>
